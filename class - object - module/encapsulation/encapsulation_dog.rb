@@ -13,4 +13,4 @@ end
 
 
 dog = Dog.new('cofi')
-puts dog.name
+puts dog
