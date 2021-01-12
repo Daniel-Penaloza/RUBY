@@ -24,3 +24,6 @@ square = Figure.new(4)
 triangle = Figure.new(3)
 puts square.give_me_information
 puts triangle.give_me_information
+
+puts Figure::Square.new.parts(4)
+puts Figure::Triangle.new.parts(3)
