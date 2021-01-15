@@ -1,1 +1,1 @@
-var search_data = {"index":{"searchIndex":["nothing","the_method()"],"longSearchIndex":["nothing","nothing#the_method()"],"info":[["Nothing","","Nothing.html","","<p>This is a class that does nothing\n"],["the_method","Nothing","Nothing.html#method-i-the_method","()","<p>This method is documented\n"]]}}
+var search_data = {"index":{"searchIndex":[],"longSearchIndex":[],"info":[]}}
